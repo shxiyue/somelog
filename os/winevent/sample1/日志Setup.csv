@@ -1,4 +1,0 @@
-﻿级别,日期和时间,来源,事件 ID,任务类别
-信息,2014/7/2 14:28:25,Microsoft-Windows-WUSA,2,无,"已成功安装 Windows 更新 ""Windows 更新程序 (KB958488)""。(命令行:“wusa.exe ""D:\9602002f83e0da66e4754ee1805297\Windows6.1-KB958488-v6001-x64.msu"" /quiet /norestart”)"
-信息,2014/7/2 14:28:25,Microsoft-Windows-Servicing,2,无,已将程序包 KB958488 成功更改为 已安装 状态。
-信息,2014/7/2 14:28:22,Microsoft-Windows-Servicing,1,无,启动程序包 KB958488 的更改。当前状态为 不存在。目标状态为 已安装。客户端 ID: WindowsUpdateAgent。
